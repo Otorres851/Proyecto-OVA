@@ -1,6 +1,0 @@
-En la solución de problemas matemáticos, el identificar y diferenciar el conjunto de números enteros, comprender, analizar  y operar cantidades, define el desarrollo de habilidades y capacidades de pensamiento lógico matemático.
-
-<div align="center">
-<iframe width="794" height="690" frameborder="0" 
-src="animate/robotin.html"></iframe>
-</div>
